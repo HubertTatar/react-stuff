@@ -1,0 +1,23 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "contactlist with firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huta",
+  "license": "ISC",
+  "devDependencies":{
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "react": "15.4.1",
+    "react-dom": "15.4.1"
+  }
+}
